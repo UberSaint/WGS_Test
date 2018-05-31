@@ -1,2 +1,2 @@
 # WGS_Test
-WGS Test Repo
+WGS Test Repo.
